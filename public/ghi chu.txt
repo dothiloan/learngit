@@ -1,0 +1,4 @@
+các bu?c dua 1 project lên m?ng:
++ add project vào repositopr => commit
++ t?o liên k?t gi?a local và internet : git remote add origin url_repository
++ push project lên m?ng: git push origin master
